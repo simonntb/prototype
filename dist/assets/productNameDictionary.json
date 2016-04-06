@@ -1,0 +1,616 @@
+{
+   "product": [
+      {
+         "type": "TRNGES",
+         "name": "External turning tool -  solid"
+      },
+      {
+         "type": "TRNGIBI",
+         "name": "boring -  indexable"
+      },
+      {
+         "type": "TRNGIBS",
+         "name": "boring -  solid"
+      },
+      {
+         "type": "TRNGIBBI",
+         "name": "back boring -  indexable"
+      },
+      {
+         "type": "TRNGIBBS",
+         "name": "back boring -  solid"
+      },
+      {
+         "type": "TRNPEI",
+         "name": "External parting and grooving tool -  indexable"
+      },
+      {
+         "type": "TRNPES",
+         "name": "External parting and grooving tool -  solid"
+      },
+      {
+         "type": "TRNPII",
+         "name": "Internal grooving tool -  indexable"
+      },
+      {
+         "type": "TRNPIS",
+         "name": "Internal grooving tool -  solid"
+      },
+      {
+         "type": "TRNPAI",
+         "name": "Axial grooving tool -  indexable"
+      },
+      {
+         "type": "TRNPAS",
+         "name": "Axial grooving tool -  solid"
+      },
+      {
+         "type": "TRNTHEI",
+         "name": "External thread turning tool -  indexable"
+      },
+      {
+         "type": "TRNTHESF",
+         "name": "full profile thread turning tool -  solid"
+      },
+      {
+         "type": "TRNTHESP",
+         "name": "solid -  partial profile thread turning tool"
+      },
+      {
+         "type": "TRNTHII",
+         "name": "Internal thread turning tool -  indexable"
+      },
+      {
+         "type": "TRNTHISF",
+         "name": "full profile thread turning tool -  solid"
+      },
+      {
+         "type": "TRNTHISP",
+         "name": "solid -  partial profile thread turning tool"
+      },
+      {
+         "type": "MILFI",
+         "name": "Face milling cutter -  indexable"
+      },
+      {
+         "type": "MILFS",
+         "name": "Face milling cutter -  solid"
+      },
+      {
+         "type": "MILSQI",
+         "name": "Shoulder face mill -  indexable"
+      },
+      {
+         "type": "MILSQS",
+         "name": "Shoulder face mill -  solid"
+      },
+      {
+         "type": "MILPLI",
+         "name": "Plunge milling cutter -  indexable"
+      },
+      {
+         "type": "MILPLS",
+         "name": "Plunge milling cutter -  solid"
+      },
+      {
+         "type": "MILSFFI",
+         "name": "Full slot side and face mill -  indexable"
+      },
+      {
+         "type": "MILSFFS",
+         "name": "Full slot side and face mill -  solid"
+      },
+      {
+         "type": "MILSFHI",
+         "name": "Half side and face mill -  indexable"
+      },
+      {
+         "type": "MILSFHS",
+         "name": "Half side and face mill -  solid"
+      },
+      {
+         "type": "MILSFDHI",
+         "name": "Double half side and face mill -  indexable"
+      },
+      {
+         "type": "MILSFDHS",
+         "name": "Double half side and face mill -  solid"
+      },
+      {
+         "type": "MILGI",
+         "name": "Groove milling cutter -  indexable"
+      },
+      {
+         "type": "MILGS",
+         "name": "Groove milling cutter -  solid"
+      },
+      {
+         "type": "MILBNSI",
+         "name": "Ball nose with straight side -  indexable"
+      },
+      {
+         "type": "MILBNSS",
+         "name": "Ball nose with straight side -  solid"
+      },
+      {
+         "type": "MILBNRI",
+         "name": "Ball nose with radius side -  indexable"
+      },
+      {
+         "type": "MILBNRS",
+         "name": "Ball nose with radius side -  solid"
+      },
+      {
+         "type": "MILCFI",
+         "name": "Chamfer mill - front cutting -  indexable"
+      },
+      {
+         "type": "MILCFS",
+         "name": "Chamfer mill - front cutting -  solid"
+      },
+      {
+         "type": "MILCFBI",
+         "name": "Chamfer mill - front and back cutting -  indexable"
+      },
+      {
+         "type": "MILCFBS",
+         "name": "Chamfer mill - front and back cutting -  solid"
+      },
+      {
+         "type": "MILCBI",
+         "name": "Chamfer mill - back cutting -  indexable"
+      },
+      {
+         "type": "MILCBS",
+         "name": "Chamfer mill - back cutting -  solid"
+      },
+      {
+         "type": "MILPRAPI",
+         "name": "Angle profile mill -  indexable"
+      },
+      {
+         "type": "MILPRAPS",
+         "name": "Angle profile mill -  solid"
+      },
+      {
+         "type": "MILPRQCI",
+         "name": "Quarter circle profile mill -  indexable"
+      },
+      {
+         "type": "MILPRQCS",
+         "name": "Quarter circle profile mill -  solid"
+      },
+      {
+         "type": "MILPRHCI",
+         "name": "Half circle profile mill -  indexable"
+      },
+      {
+         "type": "MILPRHCS",
+         "name": "Half circle profile mill -  solid"
+      },
+      {
+         "type": "MILTSI",
+         "name": "T-slot milling cutter -  indexable"
+      },
+      {
+         "type": "MILTSS",
+         "name": "T-slot milling cutter -  solid"
+      },
+      {
+         "type": "MILTHGI",
+         "name": "Thread mill -  indexable"
+      },
+      {
+         "type": "MILTHGS",
+         "name": "Thread mill -  solid"
+      },
+      {
+         "type": "MILTHOCS",
+         "name": "Thread mill - orbital chamfering -  solid"
+      },
+      {
+         "type": "MILTHACS",
+         "name": "Thread mill - axial chamfering -  solid"
+      },
+      {
+         "type": "MILTHDCS",
+         "name": "Thread mill - drill and chamfer -  solid"
+      },
+      {
+         "type": "MILTHMCS",
+         "name": "Thread mill - helical mill and chamfer -  solid"
+      },
+      {
+         "type": "DRLFIA",
+         "name": "indexable -  -asymmetrical point"
+      },
+      {
+         "type": "DRLFIS",
+         "name": "indexable -  -symmetrical point"
+      },
+      {
+         "type": "DRLFIGP",
+         "name": "indexable -  -guide pad"
+      },
+      {
+         "type": "DRLFSS",
+         "name": "-symmetrical point -  solid"
+      },
+      {
+         "type": "DRLFSGP",
+         "name": "solid -  -guide pad"
+      },
+      {
+         "type": "DRLSCIA",
+         "name": "indexable -  -asymmetrical point"
+      },
+      {
+         "type": "DRLSCIS",
+         "name": "indexable -  -symmetrical point"
+      },
+      {
+         "type": "DRLSCSS",
+         "name": "-symmetrical point -  solid"
+      },
+      {
+         "type": "DRLCONI",
+         "name": "Conical hole drill -  indexable"
+      },
+      {
+         "type": "DRLCONSS",
+         "name": "-symmetrical point -  solid"
+      },
+      {
+         "type": "DRLCTRSA",
+         "name": "solid -  Form A DIN/ISO"
+      },
+      {
+         "type": "DRLCTRSB",
+         "name": "solid -  Form B DIN/ISO"
+      },
+      {
+         "type": "DRLCTRSR",
+         "name": "solid -  Form R DIN/ISO"
+      },
+      {
+         "type": "DRLCTRSNS",
+         "name": "solid -  Non standard form"
+      },
+      {
+         "type": "DRLSPTS",
+         "name": "Spot drill -  solid"
+      },
+      {
+         "type": "DRLII",
+         "name": "Drill with internal chip evacuation -  indexable"
+      },
+      {
+         "type": "DRLIS",
+         "name": "Drill with internal chip evacuation -  solid"
+      },
+      {
+         "type": "DRLTPI",
+         "name": "Trepanning tool -  indexable"
+      },
+      {
+         "type": "DRLTPS",
+         "name": "Trepanning tool -  solid"
+      },
+      {
+         "type": "REASCYLI",
+         "name": "cylindrical hole -  indexable"
+      },
+      {
+         "type": "REASCYLS",
+         "name": "cylindrical hole -  solid"
+      },
+      {
+         "type": "REASCONI",
+         "name": "conical hole -  indexable"
+      },
+      {
+         "type": "REASCONS",
+         "name": "conical hole -  solid"
+      },
+      {
+         "type": "REASSTPI",
+         "name": "stepped hole -  indexable"
+      },
+      {
+         "type": "REASSTPS",
+         "name": "stepped hole -  solid"
+      },
+      {
+         "type": "BORISI",
+         "name": "Single edge boring -  indexable"
+      },
+      {
+         "type": "BORISS",
+         "name": "Single edge boring -  solid"
+      },
+      {
+         "type": "BORIMI",
+         "name": "Multi edge boring -  indexable"
+      },
+      {
+         "type": "BORIMS",
+         "name": "Multi edge boring -  solid"
+      },
+      {
+         "type": "BORISBI",
+         "name": "Single edge back boring -  indexable"
+      },
+      {
+         "type": "BORISBS",
+         "name": "Single edge back boring -  solid"
+      },
+      {
+         "type": "BORIMBI",
+         "name": "Multi edge back boring -  indexable"
+      },
+      {
+         "type": "BORIMBS",
+         "name": "Multi edge back boring -  solid"
+      },
+      {
+         "type": "BORIII",
+         "name": "Boring tool with int chip evac -  indexable"
+      },
+      {
+         "type": "BORIIS",
+         "name": "Boring tool with int chip evac -  solid"
+      },
+      {
+         "type": "BOREI",
+         "name": "External boring -  indexable"
+      },
+      {
+         "type": "BORES",
+         "name": "External boring -  solid"
+      },
+      {
+         "type": "TAPCCYLF",
+         "name": "Cutting tap for cylindrical threads -  chip flutes"
+      },
+      {
+         "type": "TAPCCYLG",
+         "name": "Cutting tap for cylindrical threads -  gun nose"
+      },
+      {
+         "type": "TAPCCYLD",
+         "name": "Cutting tap for cylindrical threads -  drilling function"
+      },
+      {
+         "type": "TAPCCONF",
+         "name": "Cutting tap for conical threads -  chip flutes"
+      },
+      {
+         "type": "TAPFCYL",
+         "name": "Cutting tap for conical threads -  Forming tap for cylindrical threads"
+      },
+      {
+         "type": "TAPFCON",
+         "name": "Cutting tap for conical threads -  Forming tap for conical threads"
+      },
+      {
+         "type": "DIECYL",
+         "name": "Die -  Die for cylindrical threads"
+      },
+      {
+         "type": "DIECON",
+         "name": "Die -  Die for conical threads"
+      },
+      {
+         "type": "CSINKI",
+         "name": "Countersink -  indexable"
+      },
+      {
+         "type": "CSINKS",
+         "name": "Countersink -  solid"
+      },
+      {
+         "type": "BROTI",
+         "name": "Turn broach -  indexable"
+      },
+      {
+         "type": "BROTS",
+         "name": "Turn broach -  solid"
+      },
+      {
+         "type": "BROTTI",
+         "name": "Turn turn broach -  indexable"
+      },
+      {
+         "type": "BROTTS",
+         "name": "Turn turn broach -  solid"
+      },
+      {
+         "type": "BROFI",
+         "name": "Flat broach -  indexable"
+      },
+      {
+         "type": "BROFS",
+         "name": "Flat broach -  solid"
+      },
+      {
+         "type": "HOBI",
+         "name": "Hob -  indexable"
+      },
+      {
+         "type": "HOBS",
+         "name": "Hob -  solid"
+      },
+      {
+         "type": "MULTTI",
+         "name": "Multi turning -  indexable"
+      },
+      {
+         "type": "MULTTS",
+         "name": "Multi turning -  solid"
+      },
+      {
+         "type": "MULTMTI",
+         "name": "Multi mill-turn -  indexable"
+      },
+      {
+         "type": "MULTMTS",
+         "name": "Multi mill-turn -  solid"
+      },
+      {
+         "type": "BLTGTI",
+         "name": "Cartridge for turning -  indexable"
+      },
+      {
+         "type": "BLTGTS",
+         "name": "Cartridge for turning -  solid"
+      },
+      {
+         "type": "BLTTTI",
+         "name": "Cartridge for thread turning -  indexable"
+      },
+      {
+         "type": "BLTTTS",
+         "name": "Cartridge for thread turning -  solid"
+      },
+      {
+         "type": "BLTMI",
+         "name": "Cartridge for milling -  indexable"
+      },
+      {
+         "type": "BLTMS",
+         "name": "Cartridge for milling -  solid"
+      },
+      {
+         "type": "BLTBCI",
+         "name": "Cartridge -  indexable"
+      },
+      {
+         "type": "BLTBCS",
+         "name": "Cartridge -  solid"
+      },
+      {
+         "type": "BLTBBI",
+         "name": "Bar for boring tool -  indexable"
+      },
+      {
+         "type": "BLTBBS",
+         "name": "Bar for boring tool -  solid"
+      },
+      {
+         "type": "BLTBFI",
+         "name": "Fine boring unit -  indexable"
+      },
+      {
+         "type": "BLTBFS",
+         "name": "Fine boring unit -  solid"
+      },
+      {
+         "type": "ADPRS",
+         "name": "Adaptive item -  Rotation symmetrical adaptor"
+      },
+      {
+         "type": "ADPCL",
+         "name": "Adaptive item -  Collet"
+      },
+      {
+         "type": "ADPNR",
+         "name": "Adaptive item -  Non-rotating adaptor"
+      },
+      {
+         "type": "ADPSL",
+         "name": "Adaptive item -  Sleeve"
+      },
+      {
+         "type": "ADPTURR",
+         "name": "Adaptive item -  Mini turret"
+      },
+      {
+         "type": "ADPMILBC",
+         "name": "Adaptor for milling cutter -  Body for cartridge cutter"
+      },
+      {
+         "type": "ADPBORR",
+         "name": "Adaptor for boring tool -  Rough boring"
+      },
+      {
+         "type": "ADPBORF",
+         "name": "Adaptor for boring tool -  Fine boring"
+      },
+      {
+         "type": "ADPBORBR",
+         "name": "Adaptor for boring tool -  Bridge"
+      },
+      {
+         "type": "ADPBORSL",
+         "name": "Adaptor for boring tool -  Slide"
+      },
+      {
+         "type": "ADPBOREX",
+         "name": "Adaptor for boring tool -  Extension"
+      },
+      {
+         "type": "ADPBORSH",
+         "name": "Adaptor for boring tool -  Shim"
+      },
+      {
+         "type": "ADPBORFH",
+         "name": "Adaptor for boring tool -  Fine boring head"
+      },
+      {
+         "type": "ADPBORCW",
+         "name": "Adaptor for boring tool -  Cover and counterweight"
+      },
+      {
+         "type": "ADPICT",
+         "name": "Adaptor for tool with int chip evac -  Tube"
+      },
+      {
+         "type": "ADPICC",
+         "name": "Adaptor for tool with int chip evac -  Chuck"
+      },
+      {
+         "type": "ADPOU",
+         "name": "Adaptor for tool with int chip evac -  Oil supply unit"
+      },
+      {
+         "type": "INSI",
+         "name": "Insert -  ISO insert"
+      },
+      {
+         "type": "INSCTRN",
+         "name": "Consept insert -  Turning insert"
+      },
+      {
+         "type": "INSCMIL",
+         "name": "Consept insert -  Milling insert"
+      },
+      {
+         "type": "INSCDRL",
+         "name": "Consept insert -  Drilling insert"
+      },
+      {
+         "type": "INSCREA",
+         "name": "Consept insert -  Reaming insert"
+      },
+      {
+         "type": "INSCBRO",
+         "name": "Consept insert -  Broaching insert"
+      },
+      {
+         "type": "INSCPRT",
+         "name": "Consept insert -  Parting off insert"
+      },
+      {
+         "type": "INSCPRFG",
+         "name": "Profiled insert -  Groove profile"
+      },
+      {
+         "type": "INSCPRFTHF",
+         "name": "Thread profile -  full profile"
+      },
+      {
+         "type": "INSCPRFTHP",
+         "name": "Thread profile -  partial profile"
+      }
+   ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "prototype",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Simon Rupp <rupp.simon@bluewin.ch>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue": "^1.0.20",
+    "fetch": "^0.11.0",
+    "es6-promise": "^3.2.1"
+  }
+}

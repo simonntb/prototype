@@ -1,0 +1,26 @@
+h1 {
+  text-transform: uppercase;
+  color: #273360;
+}
+
+div {
+  text-align: center;
+}
+
+select {
+  font-size: 17px;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+  margin: 10px;
+}
+
+p {
+  font-size: 17px;
+  background-color:rgb(237, 111, 103);
+  width: 200px;
+  padding: 16px 32px;
+  color:white;
+  margin:auto;
+}

@@ -1,0 +1,1 @@
+var productData={product:[],selected:"noSelection"};fetch("assets/productNameDictionary.json").then(function(t){return t.json()}).then(function(t){productData.product=t.product}),new Vue({el:"#app",data:productData});
